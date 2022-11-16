@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Amirhossein Dehghanazar</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h1 align="center">Hello 😄, I'm Amirhossein Dehghanazar</h1>
+<h3 align="center">A Full-Stack developer 💻</h3>
 
-- 🔭 I’m currently working on **CTRLA**
+- 🔭 I’m currently working on **Private project : CTRL-A**
 
-- 🌱 I’m currently learning **Node.js**
+- 📖 I’m currently learning **Node.js & Nuxt.js**
 
 - 💬 Ask me about **React,Vue,Next**
 
 - 📫 How to reach me **a.dehghanazar@gmail.com**
 
-- ⚡ Fun fact **It's not a bug, it's a feature!**
+- ⛄ Fun fact **It's not a bug, it's a feature!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
