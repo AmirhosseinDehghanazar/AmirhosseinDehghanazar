@@ -3,7 +3,7 @@
 <p><img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="amirhossein-dehghanazar" /></p>
 
 
-- 🔭 I’m currently working on  :    <a href="https://redl.ink/techcAFE/links" target="_blank"> <img src="https://api.redl.ink/asset/image/thumbnail/639a05163f5a1a001b37d54b" alt="https://redl.ink/techcAFE/links" width="40" height="40"</a>
+- 🔭 I’m currently working on  :    <a href="https://redl.ink/techcAFE/links" target="_blank"> <img src="https://api.redl.ink/asset/image/thumbnail/639a05163f5a1a001b37d54b" alt="https://redl.ink/techcAFE/links" width="40" height="40"/></a>
 - 📖 I’m currently learning **Node.js & Nuxt.js**
 
 - 💬 Ask me about **React,Vue,Next**
