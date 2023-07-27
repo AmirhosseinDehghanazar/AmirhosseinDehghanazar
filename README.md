@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on  :    <a href="https://redl.ink/techcAFE/links" target="_blank">Tech Cafe | کافه تِک</a>
-- 📖 I’m currently learning **Node.js & Nuxt.js**
+- 📖 I’m currently learning **Node.js & Express.js**
 
-- 💬 Ask me about **React,Vue,Next**
+- 💬 Ask me about **React,Express,Node,Next**
 
 - 📫 How to reach me **a.dehghanazar@gmail.com**
 
