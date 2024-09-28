@@ -1,67 +1,21 @@
+<div align="center"><a href="https://github.com/AmirhosseinDehghanazar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E6E6E6FF&background=94FF3F00&width=435&lines=Hello+I'm+Amirhossein+Dehghanazar;A+Full-Stack+Developer;Co+founder+of+TechCafe;Founder+of+TwinTech;%F0%9F%93%AB+How+to+reach+me+a.dehghanazar%40gmail.com" alt="Typing SVG" /></a></div>
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="amirhossein-dehghanazar" /></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="amirhossein-dehghanazar" />
-  <h1 style="font-family: 'Poppins', sans-serif; animation: fadeInDown 2s ease;">👋 Hi, I'm Amirhossein Dehghanazar</h1>
-  <p style="font-family: 'Roboto', sans-serif; font-size: 18px; animation: fadeInUp 2s ease;">
-    <em>Frontend Developer at Vira Smart</em>
-  </p>
-</div>
 
----
+<a href="https://github.com/virasmartlabel"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=5000&color=F7F7F7&random=false&width=435&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+%3A+Vira+Smart" alt="Typing SVG" /></a>
+<a href="https://github.com/AmirhosseinDehghanazar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=5000&color=E6E6E6FF&background=94FF3F00&width=435&lines=-+%F0%9F%93%96+I%E2%80%99m+currently+learning+Node.js+%26+Express.js" alt="Typing SVG" /></a>
+<a href="https://github.com/AmirhosseinDehghanazar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=5000&color=E6E6E6FF&background=94FF3F00&width=435&lines=-+%F0%9F%92%AC+Ask+me+about+React%2CExpress%2CNode%2CNext" alt="Typing SVG" /></a>
+<a href="https://github.com/AmirhosseinDehghanazar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=5000&color=E6E6E6FF&background=94FF3F00&width=435&lines=-+%F0%9F%93%AB+How+to+reach+me+a.dehghanazar%40gmail.com" alt="Typing SVG" /></a>
+<a href="https://github.com/AmirhosseinDehghanazar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=5000&color=E6E6E6FF&background=94FF3F00&width=435&lines=-+%E2%9B%84+Fun+fact+It's+not+a+bug%2C+it's+a+feature!" alt="Typing SVG" /></a>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" alt="code animation">
-  <h2 style="font-family: 'Poppins', sans-serif; animation: fadeIn 2s ease-in-out;">About Me</h2>
-  <p style="font-family: 'Roboto', sans-serif; font-size: 16px; animation: fadeInUp 2s ease-in-out;">I’m a passionate frontend developer focusing on creating stunning user experiences at Vira Smart. I love building sleek, dynamic interfaces using the latest web technologies. Currently, I'm working on exciting web applications that blend user experience with performance.</p>
-</div>
+## :globe_with_meridians: Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhosseindehghan.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirhossein-dehghaniazar-363331204/) 
 
----
+# 💻 Tech Stack:
 
-### 🎶 Spotify Playlist:
-<div align="center" style="animation: slideInUp 1s ease;">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0FygA33gWCb7l7eXCJUY0a?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-### 💻 Tech Stack:
-<div align="center" style="animation: bounceIn 1.5s ease;">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,mongodb,mysql,typescript,html,css,javascript,bootstrap" alt="Tech Stack Icons" />
-</div>
-
----
-
-### 🛠️ Additional Skills:
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%...
-
----
-
-## 📫 How to reach me:
-<div align="center">
-  <a href="mailto:a.dehghanazar@gmail.com" style="animation: shake 1.2s ease;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/amirhossein-dehghaniazar-363331204/" style="animation: shake 1.2s ease;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/amirhosseindehghan.js" style="animation: shake 1.2s ease;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
-
----
-
-### 🌐 Visitor Counter:
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AmirhosseinDehghanazar&label=Profile%20Views&color=12&icon=2&pretty=true" alt="Profile Views" style="animation: pulse 2s infinite;" />
-</div>
-
----
-
-### 💡 Fun Quote:
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="fun quote" />
-  <p style="font-family: 'Roboto', sans-serif; font-size: 18px; animation: fadeInUp 2s ease-in-out;"><strong>It's not a bug, it's a feature!</strong></p>
-</div>
-
----
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AmirhosseinDehghanazar&label=Profile%20Views&color=12&icon=2&pretty=false" />
+</a>
