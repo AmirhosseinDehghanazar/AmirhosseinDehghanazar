@@ -9,7 +9,7 @@
 <a href="https://github.com/AmirhosseinDehghanazar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=5000&color=E6E6E6FF&background=94FF3F00&width=435&lines=-+%E2%9B%84+Fun+fact+It's+not+a+bug%2C+it's+a+feature!" alt="Typing SVG" /></a>
 
 ## :globe_with_meridians: Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhosseindehghan.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirhossein-dehghaniazar-363331204/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhosseindehghan.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-dehghaniazar-363331204/) 
 
 # 💻 Tech Stack:
 
