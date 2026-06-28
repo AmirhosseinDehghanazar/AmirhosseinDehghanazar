@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420">
+  <rect width="860" height="420" rx="12" fill="#0d1117"/>
+  <rect width="860" height="420" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="860" height="3" rx="2" fill="#2f81f7"/>
+
+  <text x="32" y="40" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="10.5" font-weight="600" fill="#7d8590" letter-spacing="0.08em">CERTIFICATIONS &amp; RECOGNITION</text>
+  <text x="32" y="58" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Milestones, degrees, and professional certificates</text>
+  <rect x="32" y="68" width="796" height="1" fill="#21262d"/>
+
+  <rect x="32" y="82" width="3" height="46" rx="1.5" fill="#bc8cff"/>
+  <text x="50" y="100" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">🎓 B.Sc. Computer Engineering — Islamic Azad University</text>
+  <text x="50" y="118" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Expected Graduation</text>
+  <rect x="745" y="87" width="85" height="20" rx="10" fill="#bc8cff" fill-opacity="0.1" stroke="#bc8cff" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="787.5" y="101" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#bc8cff" text-anchor="middle" font-weight="600">Jun 2026</text>
+
+  <rect x="32" y="138" width="796" height="1" fill="#21262d"/>
+
+  <rect x="32" y="150" width="3" height="46" rx="1.5" fill="#d29922"/>
+  <text x="50" y="168" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">🥇 Divar.ir × Lavan Hackathon</text>
+  <text x="50" y="186" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Frontend engineering &amp; collaborative delivery</text>
+  <rect x="745" y="155" width="85" height="20" rx="10" fill="#d29922" fill-opacity="0.1" stroke="#d29922" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="787.5" y="169" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#d29922" text-anchor="middle" font-weight="600">2025 Winner</text>
+
+  <rect x="32" y="206" width="796" height="1" fill="#21262d"/>
+
+  <rect x="32" y="218" width="3" height="46" rx="1.5" fill="#f78166"/>
+  <text x="50" y="236" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">📜 Diginext Front-End Bootcamp</text>
+  <text x="50" y="254" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Intensive frontend engineering program by Diginext.ir</text>
+  <rect x="745" y="223" width="85" height="20" rx="10" fill="#f78166" fill-opacity="0.1" stroke="#f78166" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="787.5" y="237" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#f78166" text-anchor="middle" font-weight="600">Aug 2024</text>
+
+  <rect x="32" y="274" width="796" height="1" fill="#21262d"/>
+
+  <rect x="32" y="286" width="3" height="46" rx="1.5" fill="#2f81f7"/>
+  <text x="50" y="304" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">📜 Meta Front-End Developer Professional Certificate</text>
+  <text x="50" y="322" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Professional frontend certification via Meta / Coursera</text>
+  <rect x="745" y="291" width="85" height="20" rx="10" fill="#2f81f7" fill-opacity="0.1" stroke="#2f81f7" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="787.5" y="305" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#2f81f7" text-anchor="middle" font-weight="600">Nov 2023</text>
+
+  <rect x="32" y="342" width="796" height="1" fill="#21262d"/>
+
+  <rect x="32" y="354" width="3" height="46" rx="1.5" fill="#3fb950"/>
+  <text x="50" y="372" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">🎓 CS50x — Harvard University</text>
+  <text x="50" y="390" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Introduction to the intellectual enterprises of computer science</text>
+  <rect x="745" y="359" width="85" height="20" rx="10" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="787.5" y="373" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#3fb950" text-anchor="middle" font-weight="600">2022</text>
+
+</svg>
