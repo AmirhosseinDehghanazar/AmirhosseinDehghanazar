@@ -30,7 +30,7 @@
 
 <!-- ═══════════════════ WHOAMI CARD (SVG) ═══════════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmirhosseinDehghanazar/AmirhosseinDehghanazar/main/whoami_card.svg" width="100%" alt="whoami card" />
+  <img src="[https://raw.githubusercontent.com/AmirhosseinDehghanazar/AmirhosseinDehghanazar/main/whoami_card.svg](https://github.com/AmirhosseinDehghanazar/AmirhosseinDehghanazar/blob/main/whoami_card.svg)" width="100%" alt="whoami card" />
 </div>
 
 <br/>
@@ -125,7 +125,7 @@
 ## ✍️ Technical Writing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmirhosseinDehghanazar/AmirhosseinDehghanazar/main/writing_card.svg" width="100%" alt="technical writing" />
+  <img src="[https://raw.githubusercontent.com/AmirhosseinDehghanazar/AmirhosseinDehghanazar/main/writing_card.svg](https://github.com/AmirhosseinDehghanazar/AmirhosseinDehghanazar/blob/main/writing_card.svg)" width="100%" alt="technical writing" />
 </div>
 
 ---
