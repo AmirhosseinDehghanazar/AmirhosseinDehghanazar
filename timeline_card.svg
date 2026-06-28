@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420">
+  <!-- Background and Borders -->
+  <rect width="860" height="420" rx="12" fill="#0d1117"/>
+  <rect width="860" height="420" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="860" height="3" rx="2" fill="#2f81f7"/>
+
+  <!-- Header -->
+  <text x="32" y="40" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="10.5" font-weight="600" fill="#7d8590" letter-spacing="0.08em">CAREER TIMELINE</text>
+  <text x="32" y="58" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Amirhossein Dehghan • Frontend Software Engineer</text>
+  <rect x="32" y="68" width="796" height="1" fill="#21262d"/>
+
+  <!-- Item 1: 2025 -->
+  <rect x="32" y="82" width="3" height="46" rx="1.5" fill="#3fb950"/>
+  <text x="50" y="100" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">2025 ─ Frontend Developer @ Lavan</text>
+  <text x="50" y="118" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Vue 3 · Nuxt · WCAG 2.1 AA · Lighthouse +35% · TTI -40%</text>
+  <rect x="748" y="87" width="80" height="20" rx="10" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="788" y="101" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#3fb950" text-anchor="middle" font-weight="600">Present</text>
+
+  <rect x="32" y="138" width="796" height="1" fill="#21262d"/>
+
+  <!-- Item 2: 2024 -->
+  <rect x="32" y="150" width="3" height="46" rx="1.5" fill="#2f81f7"/>
+  <text x="50" y="168" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">2024 ─ Frontend Developer @ Vira Smart Label</text>
+  <text x="50" y="186" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">Next.js · TensorFlow.js · PWA · Zustand · Bundle -60%</text>
+  <rect x="748" y="155" width="80" height="20" rx="10" fill="#2f81f7" fill-opacity="0.1" stroke="#2f81f7" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="788" y="169" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#2f81f7" text-anchor="middle" font-weight="600">Full-time</text>
+
+  <rect x="32" y="206" width="796" height="1" fill="#21262d"/>
+
+  <!-- Item 3: 2023 -->
+  <rect x="32" y="218" width="3" height="46" rx="1.5" fill="#bc8cff"/>
+  <text x="50" y="236" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">2023 ─ Scientific Team @ CS50x Iran</text>
+  <text x="50" y="254" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">100+ learners · 90%+ workshop completion rate</text>
+  <rect x="748" y="223" width="80" height="20" rx="10" fill="#bc8cff" fill-opacity="0.1" stroke="#bc8cff" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="788" y="237" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#bc8cff" text-anchor="middle" font-weight="600">Part-time</text>
+
+  <rect x="32" y="274" width="796" height="1" fill="#21262d"/>
+
+  <!-- Item 4: 2022 -->
+  <rect x="32" y="286" width="3" height="46" rx="1.5" fill="#d29922"/>
+  <text x="50" y="304" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">2022 ─ Co-Founder &amp; Engineer @ Tech Cafe</text>
+  <text x="50" y="322" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">MERN Stack · 12,000+ MAU · CI/CD · 3 devs mentored</text>
+  <rect x="748" y="291" width="80" height="20" rx="10" fill="#d29922" fill-opacity="0.1" stroke="#d29922" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="788" y="305" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#d29922" text-anchor="middle" font-weight="600">Founder</text>
+
+  <rect x="32" y="342" width="796" height="1" fill="#21262d"/>
+
+  <!-- Item 5: 2019 -->
+  <rect x="32" y="354" width="3" height="46" rx="1.5" fill="#f78166"/>
+  <text x="50" y="372" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13.5" font-weight="600" fill="#e6edf3">2019 ─ Game UI Developer @ FiveM-Turkiye</text>
+  <text x="50" y="390" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" fill="#484f58">HTML5 · CSS3 · JS · Lua · UI lag -25%</text>
+  <rect x="748" y="359" width="80" height="20" rx="10" fill="#f78166" fill-opacity="0.1" stroke="#f78166" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="788" y="373" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" fill="#f78166" text-anchor="middle" font-weight="600">Contract</text>
+
+</svg>
